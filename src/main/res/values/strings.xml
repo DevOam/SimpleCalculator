@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">simpleCalculator</string>
+    <string name="et1">Number1</string>
+    <string name="et2">Number2</string>
+    <string name="res">Resultat</string>
+    <string name="btn">Calculer</string>
+    <string name="titre">Calculator</string>
+    <string name="operators">operators</string>
+    <string name="share">Share</string>
+
+
+</resources>
